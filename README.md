@@ -92,3 +92,5 @@ Weekly: 84.00 kWh
 Monthly: 360.00 kWh
 Yearly: 4380.00 kWh
  Tip: Consider reducing usage or switching to energy-efficient models.
+
+Made with ❤️ by Kartik Bhardwaj
